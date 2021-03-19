@@ -1,1 +1,11 @@
+# DuPont-Ballistic-Data-Acquisition-Software-System
 
+Date: August 2020 - Present 
+
+The goal of this academic project is to create an application that allows DuPont users to 
+create projects and records shots for their Ballistic Data Acquisition Software System. 
+It features a Projects, History page, Measure page, and Advanced Settings page. 
+Pycharm is being used for the development of this project, and MySQLDatabase is being used 
+to create and query the database to save records of projects. The team for this project 
+consists of a group of 4 that works in an agile environment to complete mockups and 
+submit prototypes of the application over the course of multiple 2-week iterations.
